@@ -1,0 +1,8 @@
+{
+    "name": "Contributorcoin Stale Check",
+    "description": "Checks for stale issues and pull requests",
+    "iconName": "icon.png",
+    "categories": [
+        "Automation"
+    ]
+}

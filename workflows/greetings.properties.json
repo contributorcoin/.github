@@ -1,0 +1,8 @@
+{
+    "name": "Contributorcoin Welcome Greeting",
+    "description": "Greets users who are first time contributors to the repo",
+    "iconName": "icon.png",
+    "categories": [
+        "Automation"
+    ]
+}
